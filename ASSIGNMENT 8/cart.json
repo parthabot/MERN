@@ -1,0 +1,26 @@
+[
+    {
+        "product_id":101,
+        "product_name":"cap",
+        "product_quantity":20,
+        "product_price":20
+    },
+    {
+        "product_id":102,
+        "product_name":"ball",
+        "product_quantity":10,
+        "product_price":10
+    },
+    {
+        "product_id":103,
+        "product_name":"mat",
+        "product_quantity":5,
+        "product_price":10
+    },
+    {
+        "product_id":104,
+        "product_name":"bo",
+        "product_quantity":10,
+        "product_price":20
+    }
+]
